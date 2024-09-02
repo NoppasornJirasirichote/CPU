@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"/home/ise/CPU_Project/ROM.v" Line 9: Net &lt;<arg fmt="%s" index="1">rom[15][7]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"/home/ise/CPU_Project/Datapath.v" Line 22: Net &lt;<arg fmt="%s" index="1">KeepANSmux[7]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">KeepANSmux</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;15&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;14&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;13&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;12&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;11&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;10&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;9&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;8&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;7&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="new" >Signal &lt;<arg fmt="%s" index="1">rom&lt;6&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;5&gt;&lt;6&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;5&gt;&lt;5&gt;</arg>&lt;<arg fmt="%d" index="2">6</arg>:<arg fmt="%d" index="3">6</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;5&gt;&lt;4&gt;</arg>&lt;<arg fmt="%d" index="2">5</arg>:<arg fmt="%d" index="3">5</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;5&gt;&lt;3&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;5&gt;&lt;2&gt;</arg>&lt;<arg fmt="%d" index="2">3</arg>:<arg fmt="%d" index="3">3</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;5&gt;&lt;1&gt;</arg>&lt;<arg fmt="%d" index="2">2</arg>:<arg fmt="%d" index="3">2</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;5&gt;&lt;0&gt;</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;4&gt;&lt;7&gt;</arg>&lt;<arg fmt="%d" index="2">4</arg>:<arg fmt="%d" index="3">4</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;4&gt;&lt;6&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;4&gt;&lt;5&gt;</arg>&lt;<arg fmt="%d" index="2">6</arg>:<arg fmt="%d" index="3">6</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;4&gt;&lt;4&gt;</arg>&lt;<arg fmt="%d" index="2">5</arg>:<arg fmt="%d" index="3">5</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;4&gt;&lt;3&gt;</arg>&lt;<arg fmt="%d" index="2">7</arg>:<arg fmt="%d" index="3">7</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;4&gt;&lt;2&gt;</arg>&lt;<arg fmt="%d" index="2">3</arg>:<arg fmt="%d" index="3">3</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;4&gt;&lt;1&gt;</arg>&lt;<arg fmt="%d" index="2">4</arg>:<arg fmt="%d" index="3">4</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;4&gt;&lt;0&gt;</arg>&lt;<arg fmt="%d" index="2">2</arg>:<arg fmt="%d" index="3">2</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;3&gt;&lt;7&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;3&gt;&lt;6&gt;</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;3&gt;&lt;5&gt;</arg>&lt;<arg fmt="%d" index="2">6</arg>:<arg fmt="%d" index="3">6</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;3&gt;&lt;4&gt;</arg>&lt;<arg fmt="%d" index="2">7</arg>:<arg fmt="%d" index="3">7</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;3&gt;&lt;3&gt;</arg>&lt;<arg fmt="%d" index="2">4</arg>:<arg fmt="%d" index="3">4</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;3&gt;&lt;2&gt;</arg>&lt;<arg fmt="%d" index="2">3</arg>:<arg fmt="%d" index="3">3</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;3&gt;&lt;1&gt;</arg>&lt;<arg fmt="%d" index="2">2</arg>:<arg fmt="%d" index="3">2</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;3&gt;&lt;0&gt;</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;2&gt;&lt;7&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;2&gt;&lt;6&gt;</arg>&lt;<arg fmt="%d" index="2">5</arg>:<arg fmt="%d" index="3">5</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;2&gt;&lt;5&gt;</arg>&lt;<arg fmt="%d" index="2">7</arg>:<arg fmt="%d" index="3">7</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;2&gt;&lt;4&gt;</arg>&lt;<arg fmt="%d" index="2">6</arg>:<arg fmt="%d" index="3">6</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;2&gt;&lt;3&gt;</arg>&lt;<arg fmt="%d" index="2">5</arg>:<arg fmt="%d" index="3">5</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;2&gt;&lt;2&gt;</arg>&lt;<arg fmt="%d" index="2">3</arg>:<arg fmt="%d" index="3">3</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;2&gt;&lt;1&gt;</arg>&lt;<arg fmt="%d" index="2">2</arg>:<arg fmt="%d" index="3">2</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;2&gt;&lt;0&gt;</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;1&gt;&lt;7&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;1&gt;&lt;6&gt;</arg>&lt;<arg fmt="%d" index="2">4</arg>:<arg fmt="%d" index="3">4</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;1&gt;&lt;5&gt;</arg>&lt;<arg fmt="%d" index="2">7</arg>:<arg fmt="%d" index="3">7</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;1&gt;&lt;4&gt;</arg>&lt;<arg fmt="%d" index="2">5</arg>:<arg fmt="%d" index="3">5</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;1&gt;&lt;3&gt;</arg>&lt;<arg fmt="%d" index="2">4</arg>:<arg fmt="%d" index="3">4</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;1&gt;&lt;2&gt;</arg>&lt;<arg fmt="%d" index="2">3</arg>:<arg fmt="%d" index="3">3</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;1&gt;&lt;1&gt;</arg>&lt;<arg fmt="%d" index="2">2</arg>:<arg fmt="%d" index="3">2</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;1&gt;&lt;0&gt;</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;0&gt;&lt;7&gt;</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;0&gt;&lt;6&gt;</arg>&lt;<arg fmt="%d" index="2">7</arg>:<arg fmt="%d" index="3">7</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;0&gt;&lt;5&gt;</arg>&lt;<arg fmt="%d" index="2">6</arg>:<arg fmt="%d" index="3">6</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;0&gt;&lt;4&gt;</arg>&lt;<arg fmt="%d" index="2">5</arg>:<arg fmt="%d" index="3">5</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;0&gt;&lt;3&gt;</arg>&lt;<arg fmt="%d" index="2">6</arg>:<arg fmt="%d" index="3">6</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;0&gt;&lt;2&gt;</arg>&lt;<arg fmt="%d" index="2">3</arg>:<arg fmt="%d" index="3">3</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;0&gt;&lt;1&gt;</arg>&lt;<arg fmt="%d" index="2">2</arg>:<arg fmt="%d" index="3">2</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;0&gt;&lt;0&gt;</arg>&lt;<arg fmt="%d" index="2">1</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">rom&lt;5&gt;&lt;7&gt;</arg>&lt;<arg fmt="%d" index="2">4</arg>:<arg fmt="%d" index="3">4</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">1</arg> in block &lt;<arg fmt="%s" index="5">ROM</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="3231" delta="new" >The small RAM &lt;<arg fmt="%s" index="1">Mram_Address[3]_rom[15][7]_wide_mux_1_OUT</arg>&gt; will be implemented on LUTs in order to maximize performance and save block RAM resources. If you want to force its implementation on block, use option/constraint ram_style.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">Output_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">ROM</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;Output_2&gt; &lt;Output_3&gt; &lt;Output_7&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">ThisIR/IR_DTP_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Datapath</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;ThisIR/IR_DTP_2&gt; &lt;ThisIR/IR_DTP_0&gt; &lt;ThisIR/IR_CU_3&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">ThisIR/IRout_7</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Datapath</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">3 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;ThisIR/IRout_3&gt; &lt;ThisIR/IRout_2&gt; &lt;ThisIR/IRout_0&gt; </arg>
+</msg>
+
+</messages>
+
